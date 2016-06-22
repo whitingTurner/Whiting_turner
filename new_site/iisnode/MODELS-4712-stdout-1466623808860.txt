@@ -1,0 +1,5 @@
+Server listening on port undefined
+connected to database
+[ RowDataPacket { email: 'j', password: 'j' } ]
+User name = dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6d3Rfd2hpdGluZ3R1cm5lci9CREdQX0FyY2hfVkNfMy0yNC0xNl9URC5ydnQ=, password is BDGP_Arch_VC_3-24-16_TD.rvt
+INSERT INTO lmvmodeloption(label,urn) VALUES("BDGP_Arch_VC_3-24-16_TD.rvt","dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6d3Rfd2hpdGluZ3R1cm5lci9CREdQX0FyY2hfVkNfMy0yNC0xNl9URC5ydnQ=")
